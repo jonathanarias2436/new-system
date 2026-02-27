@@ -1,2 +1,8 @@
 CONFIGURACION..
+
+1. git init  - iniciar
+2. git branch - ver ramas
+3. git branch nueva-funciones - crear rama
+4. git branch -d nueva-funciones - borrar rama
+ 
 FUNCIONES..
